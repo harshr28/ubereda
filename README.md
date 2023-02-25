@@ -1,15 +1,15 @@
 # Exploratory Data Analysis on Uber Rides Dataset
 The repository consists of a dataset containing Uber rides data from April to September 2014. The R script file performs exploratory data analysis on the data.
 
-#Project Details:
+# Project Details:
 Domain: Data Science
 Project Name: Exploratory Data Analysis on Uber Dataset
 Theme: Descriptive Analytics
 
-Objective:
+# Objective:
 To gather basic insights from the Uber Rides dataset comprising data of rides from April to September 2014. The project plots various datatables; bar graphs; heatmaps and generates a map of New York City using the data.
 
-Data Description:
+# Data Description:
 There are six files of raw data on Uber pickups in New York City from April to September 2014. The files are separated by month and each has the following columns:
 
 Date/Time : The date and time of the Uber pickup
@@ -34,7 +34,7 @@ B02617 : Weiter
 B02682 : Schmecken
 B02764 : Danach-NY
 
-#Results:
+# Results:
 1. The following insights were found using different barplots:
 a. The highest number of trips were undertaken between 5 PM and 6 PM. 
 ![image](https://user-images.githubusercontent.com/119730322/221345502-a95ca1fb-0db5-432a-a549-191cd43683a3.png)
