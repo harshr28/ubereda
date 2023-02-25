@@ -3,7 +3,9 @@ The repository consists of a dataset containing Uber rides data from April to Se
 
 # Project Details:
 Domain: Data Science
+
 Project Name: Exploratory Data Analysis on Uber Dataset
+
 Theme: Descriptive Analytics
 
 # Objective:
