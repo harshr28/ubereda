@@ -15,25 +15,37 @@ To gather basic insights from the Uber Rides dataset comprising data of rides fr
 There are six files of raw data on Uber pickups in New York City from April to September 2014. The files are separated by month and each has the following columns:
 
 Date/Time : The date and time of the Uber pickup
+
 Lat : The latitude of the Uber pickup
+
 Lon : The longitude of the Uber pickup
+
 Base : The TLC base company code affiliated with the Uber pickup
 
 These files are named:
 
 uber-raw-data-apr14.csv
+
 uber-raw-data-aug14.csv
+
 uber-raw-data-jul14.csv
+
 uber-raw-data-jun14.csv
+
 uber-raw-data-may14.csv
+
 uber-raw-data-sep14.csv
 
 The Base codes are for the following Uber bases:
 
 B02512 : Unter
+
 B02598 : Hinter
+
 B02617 : Weiter
+
 B02682 : Schmecken
+
 B02764 : Danach-NY
 
 # Results:
